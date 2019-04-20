@@ -1,0 +1,8 @@
+github.com/go-ole/go-ole v1.2.4 h1:nNBDSCOigTSiarFpYE9J/KtEA1IOW4CNeqT9TQDqCxI=
+github.com/go-ole/go-ole v1.2.4/go.mod h1:XCwSNxSkXRo4vlyPy93sltvi/qJq0jqQhjqQNIwKuxM=
+github.com/medusalix/go-wca v0.1.2-0.20190324144244-331bb83def75 h1:mFhZ1sSzTQZNMXgjbcbiWUxHc3Lnk3iy2RXgne0P8fU=
+github.com/medusalix/go-wca v0.1.2-0.20190324144244-331bb83def75/go.mod h1:TSQ7P9ZN/O5aV16YtcnBtijCXr+E83JXG841VvuGLcE=
+github.com/medusalix/go-wca v0.1.2-0.20190420110806-ad9d80be68db h1:6AojByDDI5crn4aeBzf63nRyje+iYUJGUAvD3ZUaeDM=
+github.com/medusalix/go-wca v0.1.2-0.20190420110806-ad9d80be68db/go.mod h1:TSQ7P9ZN/O5aV16YtcnBtijCXr+E83JXG841VvuGLcE=
+github.com/medusalix/go-wca v0.1.2-0.20190420115834-67cba37d8cd7 h1:CJwhPDy3Wm5vIsfreGAkul5nEfZBPBotbejviu3uHbk=
+github.com/medusalix/go-wca v0.1.2-0.20190420115834-67cba37d8cd7/go.mod h1:TSQ7P9ZN/O5aV16YtcnBtijCXr+E83JXG841VvuGLcE=

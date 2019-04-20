@@ -1,0 +1,8 @@
+build: off
+stack: go
+
+before_test:
+  - go vet ./...
+
+test_script:
+  - go test ./...
