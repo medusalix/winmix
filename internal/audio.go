@@ -20,7 +20,7 @@ import (
 	"unsafe"
 
 	ole "github.com/go-ole/go-ole"
-	wca "github.com/medusalix/go-wca"
+	wca "github.com/moutend/go-wca"
 )
 
 func getProcessVolumes(process *Process) ([]*wca.ISimpleAudioVolume, error) {

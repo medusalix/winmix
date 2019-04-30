@@ -19,7 +19,7 @@ package internal
 import (
 	"errors"
 
-	wca "github.com/medusalix/go-wca"
+	wca "github.com/moutend/go-wca"
 )
 
 // VolumeControl is used to control the volume of an individual process
